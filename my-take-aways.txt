@@ -1,0 +1,8 @@
+My thoughts on this analython 1:
+
+1. you were playing in the wrong field - should have been more inference/report and less coding/attempting modals
+2. should have asked others instead of relying just on the internet reports
+3. should over come hesitation/dilemmma and wrote more content then filtered. Cant perfect every line
+4. should have  included references, graph and table labels and wrote more about them
+5. should learn more about statistical testing
+6. should redo this assignment in both R and python by next week for my improvement no matter the result
